@@ -1,0 +1,3 @@
+{
+    "response":"df.groupby('sale_date')['revenue'].sum().idxmin()"
+}
